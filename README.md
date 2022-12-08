@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live site URL]()
+- Live Site URL: [Live site URL](https://hassanakhtar8.github.io/Huddle-UI/)
 
 
 ### Built with
